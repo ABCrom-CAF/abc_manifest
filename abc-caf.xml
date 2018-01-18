@@ -42,6 +42,8 @@
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
+  <project path="vendor/qcom/sdclang-3.9/linux-x86" name="proprietary_vendor_qcom_sdclang-3.9_linux-x86" remote="abc-caf"/>
+  <project path="vendor/qcom/sdclang-4.0/linux-x86" name="proprietary_vendor_qcom_sdclang-4.0_linux-x86" remote="abc-caf"/>
 
   <!-- qc-common & qc-sepolicy -->
   <project name="abc_device_qcom_common" path="device/qcom/common" remote="abc-caf"/>   

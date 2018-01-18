@@ -47,6 +47,7 @@
   <remove-project name="platform/vendor/qcom/thulium" />
 
   <!-- Replaced in abc-caf.xml -->
+  <remove-project name="platform/bootable/recovery" />
   <remove-project name="platform/build" />
   <remove-project name="platform/build/soong" />
   <remove-project name="device/qcom/common" />  

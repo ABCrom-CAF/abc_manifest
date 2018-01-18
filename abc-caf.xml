@@ -26,8 +26,7 @@
   <project path="scripts" name="scripts" remote="abc-caf" revision="o2" />
 
   <!-- Recovery -->
-  <remove-project name="platform/bootable/recovery" />
-  <project name="bootable_recovery" path="bootable/recovery" remote="abc-caf" />
+  <project name="abc_bootable_recovery" path="bootable/recovery" remote="abc-caf" />
   
   <!-- Build System -->
   <project name="abc_build_make" path="build/make" remote="abc-caf" >

@@ -3,8 +3,8 @@ ABC rom CAF
 
 Repo init command:
 
-	repo init -u https://github.com/ABCrom-CAF/abc_manifest.git -b o2 -m abc-caf.xml
+	repo init -u https://github.com/ABCrom-CAF/abc_manifest.git -b o2
 
 Sync source (for future syncs, if you have errors, try "repo sync --force-sync")
 
-	repo sync
+	repo sync --no-clone-bundle --no-tags

@@ -25,6 +25,9 @@
   <!-- Scripts -->
   <project path="scripts" name="scripts" remote="abc-caf" revision="o2" />
 
+  <!-- Bionic -->
+  <project name="abc_bionic" path="bionic" remote="abc-caf" />
+
   <!-- Recovery -->
   <project name="abc_bootable_recovery" path="bootable/recovery" remote="abc-caf" />
   

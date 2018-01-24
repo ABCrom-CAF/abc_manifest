@@ -76,7 +76,7 @@
   <project name="abc_manifest" path="manifest" remote="abc" />
 
   <!-- Apps -->
-  <!--name="abc_packages_apps_AbcSettings" project path="packages/apps/AbcSettings" remote="abc" /-->
+  <project name="abc_packages_apps_AbcSettings" path="packages/apps/AbcSettings" remote="abc" />
   <project name="abc_packages_apps_Bluetooth" path="packages/apps/Bluetooth" remote="abc" />
   <project name="abc_packages_apps_Dialer" path="packages/apps/Dialer" remote="abc" />
   <project name="abc_packages_apps_Contacts" path="packages/apps/Contacts" remote="abc" />
@@ -87,7 +87,7 @@
   <project name="abc_packages_apps_Launcher3" path="packages/apps/Launcher3" remote="ezio" />
   <project name="abc_packages_apps_MusicFX" path="packages/apps/MusicFX" remote="abc" />
   <project name="abc_packages_apps_Settings" path="packages/apps/Settings" remote="abc" />
-  <!--project name="abc_packages_apps_SlimRecents" path="packages/apps/SlimRecents" remote="abc" /-->
+  <project name="abc_packages_apps_SlimRecents" path="packages/apps/SlimRecents" remote="abc" />
   <project name="abc_packages_apps_Snap" path="packages/apps/Snap" remote="abc" />
 
   <!-- Providers -->

@@ -86,6 +86,7 @@
   <project name="abc_packages_apps_Gallery2" path="packages/apps/Gallery2" remote="abc" />
   <project name="abc_packages_apps_Launcher3" path="packages/apps/Launcher3" remote="ezio" />
   <project name="abc_packages_apps_MusicFX" path="packages/apps/MusicFX" remote="abc" />
+  <project name="abc_packages_apps_PackageInstaller" path="packages/apps/PackageInstaller" remote="abc" />
   <project name="abc_packages_apps_Settings" path="packages/apps/Settings" remote="abc" />
   <project name="abc_packages_apps_SlimRecents" path="packages/apps/SlimRecents" remote="abc" />
   <project name="abc_packages_apps_Snap" path="packages/apps/Snap" remote="abc" />
